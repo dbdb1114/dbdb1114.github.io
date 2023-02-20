@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5561fda0.css",
+    "main.js": "/static/js/main.aa62015d.js",
+    "static/js/787.a3ab1763.chunk.js": "/static/js/787.a3ab1763.chunk.js",
+    "static/media/CateBed.jpg": "/static/media/CateBed.d7ea93efe50be750a663.jpg",
+    "static/media/CateDining.jpg": "/static/media/CateDining.60654063a3097bba4a05.jpg",
+    "static/media/CateLiving.jpg": "/static/media/CateLiving.32599b14b836c01ffe54.jpg",
+    "static/media/CateDress.jpg": "/static/media/CateDress.d60d9ceef5bb59801d02.jpg",
+    "index.html": "/index.html",
+    "main.5561fda0.css.map": "/static/css/main.5561fda0.css.map",
+    "main.aa62015d.js.map": "/static/js/main.aa62015d.js.map",
+    "787.a3ab1763.chunk.js.map": "/static/js/787.a3ab1763.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5561fda0.css",
+    "static/js/main.aa62015d.js"
+  ]
+}
